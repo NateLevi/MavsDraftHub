@@ -42,6 +42,7 @@ This section outlines potential future features or ideas I would consider integr
     *   Dynamic charts for player statistics, physical attributes, and combine metrics.
     *   Trend analysis for player performance over time.
     *   Visual comparisons of multiple players across key metrics.
+    *   Ehanced Data table that can be converted/changed to individual player cards. 
 *   **NBA Combine Metrics Deep Dive**:
     *   Full integration of all NBA Combine data
     *   Visualizations for athletic testing results (e.g., spider charts for agility, speed, strength).
