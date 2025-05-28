@@ -37,65 +37,49 @@ This section outlines potential future features or ideas I would consider integr
 
 ### Advanced Analytics & Visualization
 
-*   **Data Filtering & Sorting**: Implement highly specific filtering options (e.g., "guards under 6'3" with >38% 3PT shooting and >3 assists per game") and multi-column sorting.
-*   **Interactive Data Charts & Dashboards**:
-    *   Dynamic charts for player statistics, physical attributes, and combine metrics.
-    *   Trend analysis for player performance over time.
-    *   Visual comparisons of multiple players across key metrics.
-    *   Ehanced Data table that can be converted/changed to individual player cards. 
-*   **NBA Combine Metrics Deep Dive**:
-    *   Full integration of all NBA Combine data
-    *   Visualizations for athletic testing results (e.g., spider charts for agility, speed, strength).
-*   **Player Video Integration & Analysis**:
-    *   Embeddable player highlights and full game footage.
-    *   (Future AI) Movement tracking analysis from game film to assess biomechanics, court coverage, and defensive positioning.
+*   **Data Filtering & Sorting**:
 
-### AI-Powered Intelligence & Simulation
+    * Implement highly specific filtering options (e.g., "guards under 6'3" with >38% 3PT shooting and >3 assists per game") and multi-column sorting.
+    *   Dynamic charts for player statistics, physical attributes, and nba combine metrics.
+    *   Improved and more detailed player comparison tool. 
+    *   Ehanced Data table that can be converted/changed with a button to a list of individual player cards. 
+    *   Full integration of all NBA Combine data.
+    *   Visual graphics of players strengths and weaknesses based on data like hot or cold shooting zones or spider charts.
+    *   Embedded player highlights and full game footage.
+    *   Add medical or injury data to profiles
+    *   
+
+*   **Personalized Scout/Decison maker Analysis Dashboard**:
+
+    *   Personal individual dashboards to record private notes, rankings, and player evaluations.
+    *   Add login authentication
+
+
+### AI-Powered Draft Simulation
 
 *   **Full AI Mock Draft Simulator**:
     *   AI-driven draft simulation based on team needs, player projections, historical draft data, and scout consensus.
-    *   Real-time updates and "what-if" scenario planning as the draft unfolds.
-    *   Probability analysis for player availability at specific pick slots.
-*   **Roster Fit & Team Impact Simulation**:
+*   **Roster**:
     *   Simulate how a prospect fits into the current Mavericks roster
     *   Interactive tool to add/remove/swap players.
     *   Automated indication of how well a player meets Mavericks needs.
-*   **NBA Player Archetype Comparison Engine**:
-    *   Utilize a historical player API to compare prospects to past and current NBA players based on statistical profiles, physical attributes, and playing styles.
+    *   Ability to view and analyze prospects for future draft classes (e.g., 2025, 2026).
+*   **Historic NBA Player Archetype Comparison**:
+    *   Utilize a historical player API to compare prospects to past and current NBA players based on statistical profiles.
 
-### Player Development & Performance Engine
-
-*   **AI-Driven Strengths & Weaknesses Analysis**:
-    *   Analyze player performance data (stats, film breakdown, combine results, scout reports) to identify specific skill gaps and areas of excellence.
-    *   Detailed breakdown of offensive (e.g., shooting zones, shot types, finishing ability) and defensive (e.g., on-ball, off-ball, rim protection) capabilities.
-*   **Personalized Training & Development Plans**:
-    *   Generate customized training regimens and G-League development plans based on AI analysis.
-    *   Skill progression tracking with visualized milestones and timelines.
-    *   Recommendations for specific coaching focuses and drills.
 
 ### Financial & Contractual Management
 
 *   **Comprehensive Salary Cap Integration**:
-    *   Calculate rookie contract implications and their impact on the Mavericks' multi-year salary cap outlook.
+    *   Calculate rookie contract implications and their impact on the Mavericks' salary cap.
     *   Model financial impact of draft decisions
-*   **International Player Management**:
     *   Track buyout clauses, contract statuses, and transfer complexities for international prospects.
-    *   Maintain a database of international league quality and translation factors for statistics.
 
-### Injury and Character Assessment
 
-*   **Medical & Character Evaluation Hub**:
-    *   Centralized tracking of player injury histories with detailed timelines.
-    *   Consolidated character evaluations from interviews, background checks, and scout reports.
-
-### Strategic & Long-Term Planning
-
-*   **Multi-Year Draft & Prospect Database**:
-    *   Ability to view and analyze prospects for future draft classes (e.g., 2025, 2026).
-    *   Long-term roster planning based on evolving team needs and future talent pools.
-*   **Personalized Scout Analysis Dashboard**:
-    *   Secure, individual dashboards for scouts to record private notes, rankings, and player evaluations.
-    *   Tools for scouts to compare their evaluations against team consensus and AI-generated insights.
+*   **Personalized Training & Development Plans**:
+    *   Generate customized training regimens and G-League development plans based on AI analysis.
+    *   Skill progression tracking with visualized milestones and timelines.
+    *   Recommendations for specific coaching focuses and drills.
 
 ### Platform & UX Enhancements
 
@@ -107,4 +91,4 @@ This section outlines potential future features or ideas I would consider integr
     *   Enhanced keyboard navigation
     *   Further optimization of mobile and tablet user experience.
 *   **Data Exportability**:
-    *   Allow users to export draft board data, player profiles, and statistical analyses to PDF or CSV formats.
+    *   Allow exporting draft board data, player profiles, and statistical analyses to PDF or CSV formats.
