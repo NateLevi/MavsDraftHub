@@ -1,6 +1,6 @@
 # Dallas Mavericks Draft Hub
 
-A NBA Draft management application built for the Dallas Mavericks Front Office decision makers and scouts.
+A NBA Draft management application built for the Dallas Mavericks Front Office decision makers
 
 ## Features
 
@@ -48,7 +48,7 @@ This section outlines potential future features or ideas I would consider integr
     *   Embedded player highlights and full game footage.
     *   Add medical or injury data to profiles
 
-*   **Personalized Scout/Decison maker Analysis Dashboard**:
+*   **Personalized Decison maker Analysis Dashboard**:
 
     *   Personal individual dashboards to record private notes, rankings, and player evaluations.
     *   Add login authentication
