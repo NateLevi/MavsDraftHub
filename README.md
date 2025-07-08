@@ -1,6 +1,6 @@
-# Dallas Mavericks Draft Hub
+# NBA Draft Hub
 
-A NBA Draft management application built for the Dallas Mavericks Front Office decision makers
+A NBA Draft management application built for the NBA Front Office decision makers
 
 ## Features
 

@@ -76,7 +76,7 @@ function MobileDrawer({ open, onClose, routes }) {
               fontFamily: '"Lato", sans-serif',
               fontSize: '0.75rem'
             }}>
-              Dallas Mavericks Draft Hub
+              NBA Draft Hub
             </Typography>
           </Box>
         </Box>
