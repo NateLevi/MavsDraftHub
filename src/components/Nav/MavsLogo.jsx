@@ -6,7 +6,7 @@ function MavsLogo({ isMobile = false }) {
 
   return (
     <img 
-      src="/dallas-mavericks.png" 
+      src="/nbalogo.png" 
       alt="Dallas Mavericks" 
       onClick={() => navigate('/')}
       style={isMobile ? mobileLogoStyles : logoStyles}
